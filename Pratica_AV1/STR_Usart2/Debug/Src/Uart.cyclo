@@ -1,0 +1,6 @@
+core_cm4.h:1071:22:NVIC_EnableIRQ	1
+Uart.c:16:6:uart_int	1
+Uart.c:50:17:compute_uart_bd	1
+Uart.c:56:6:uart_write	2
+Uart.c:64:6:uart_read	2
+Uart.c:71:6:USART1_IRQHandler	2
