@@ -1,0 +1,5 @@
+../Src/Uart.c:16:5:__io_putchar	16	static
+../Src/Uart.c:23:6:uart_int	24	static
+../Src/Uart.c:57:17:compute_uart_bd	16	static
+../Src/Uart.c:63:6:uart_write	16	static
+../Src/Uart.c:71:6:uart_read	4	static
