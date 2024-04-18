@@ -1,0 +1,7 @@
+"./Src/Systick.o"
+"./Src/Uart.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/tim .o"
+"./Startup/startup_stm32f446retx.o"

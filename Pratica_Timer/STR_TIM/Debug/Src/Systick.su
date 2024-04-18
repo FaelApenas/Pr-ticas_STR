@@ -1,0 +1,2 @@
+../Src/Systick.c:5:6:sys_delay_ms	24	static
+../Src/Systick.c:20:6:sys_delay_us	24	static
